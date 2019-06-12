@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://raw.githubusercontent.com/mayhate/nuoya/master/comxinyong.ipa</string>
+<string>https://raw.githubusercontent.com/mayhate/nuoya/master/comlitian.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -29,13 +29,13 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>信用钱包</string>
+<string>立天金服</string>
 <key>bundle-version</key>
 <string>2.0.3</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>信用钱包</string>
+<string>立天金服</string>
 </dict>
 </dict>
 </array>
